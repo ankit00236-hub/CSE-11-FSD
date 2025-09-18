@@ -1,0 +1,12 @@
+div.g1 {
+    background-color: hsl(120, 68%, 49%);
+    color: rgb(20, 25, 192);
+    font-size: 20px;
+    font-family: 'Lucida Handwriting', cursive;
+}
+div.g2 {
+    background-color: hsl(0, 64%, 71%);
+    color: black;
+    font-size: 40px;
+    font-family: 'Lucida Handwriting', cursive;
+}
