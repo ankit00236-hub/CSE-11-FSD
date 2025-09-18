@@ -1,0 +1,14 @@
+p {
+    text-align: justify;
+    text-decoration: slateblue underline;
+    font-size: 20px;
+    color: oklab(76.702% -0.18908 0.15415);
+    font-weight: 900;
+    font-family: cursive;
+    text-indent: 50px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+
+
+}     
