@@ -5,7 +5,7 @@ div{
     transition-property: width, height, background-color;
     transition-duration: 0.5s;
     transition-delay: 0.5s;
-    transition-timing-function: linear;
+    transition-timing-function: step-start;
 }
 div:hover{
     width: 300px;
