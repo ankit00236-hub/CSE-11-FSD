@@ -1,0 +1,23 @@
+:root{
+    --color-primary: #59eae0;
+    --color-secondary: #2ecc71;
+    --color-background: #ca16e9;
+    --color-text: #333333;  
+
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--color-background);
+    color: var(--color-text);
+    margin: 0;
+    padding: 0;
+}
+.box {
+    background-color: var(--color-primary);
+    border: 2px solid var(--color-secondary);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
